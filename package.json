@@ -11,7 +11,7 @@
   "author": "ZeroCho",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "connect-redis": "^4.0.4",
     "cookie-parser": "^1.4.3",
     "cross-env": "^7.0.0",
